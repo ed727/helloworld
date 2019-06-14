@@ -1,2 +1,4 @@
 this is my first git hub file
 i am loving it
+i am learning it
+cout<<"hello";
